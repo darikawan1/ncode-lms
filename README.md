@@ -1,8 +1,9 @@
-# Final Project (Replace with your project name)
+# Final Project Ncode
 
 ## Description
 
-Please add a brief description of your final project here.
+Ncode LMS is a lightweight, responsive learning management system designed to support one-on-one tutoring. The platform includes a student dashboard, interactive cue cards, a weekly schedule view, and homework tracking. Built with HTML, CSS, and JavaScript, the project focuses on accessibility, ease of use, and mobile-first design. It aims to provide personalized learning experiences for students in underserved or remote areas. This version is the front-end MVP, ready to be expanded with backend functionality in the future.
+
 
 ## Project Documentation
 
