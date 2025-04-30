@@ -1,14 +1,15 @@
-# Final Project (Replace with your project name)
+# Final Project Ncode
 
 ## Description
 
-Please add a brief description of your final project here.
+Ncode LMS is a lightweight, responsive learning management system designed to support one-on-one tutoring. The platform includes a student dashboard, interactive cue cards, a weekly schedule view, and homework tracking. Built with HTML, CSS, and JavaScript, the project focuses on accessibility, ease of use, and mobile-first design. It aims to provide personalized learning experiences for students in underserved or remote areas. This version is the front-end MVP, ready to be expanded with backend functionality in the future.
+
 
 ## Project Documentation
 
 - [CM523 Final Project Guidelines &amp; Schedule](https://docs.google.com/document/d/1gvG9_1XYfp5-BVUgCDL9JDaZ3Acm6hHP7lDF3MqXPzY/edit#heading=h.61wsleacz62i)
-- **Final code demo:** [Update this to show your Github Pages URL](https://professorkolodziej.github.io/cm523-final-project/). The URL will be `https://professorkolodziej.github.io/YOUR-REPOSITORY-NAME/`.
-- Add any links to wireframes, mockups, your presentation, etc. here in a list so it is easy for you to find later.
+- **Final code demo:** https://github.com/darikawan1/ncode-lms  
+- **Wireframe link:** https://www.figma.com/proto/riU9dlFm7V6FX7lPXuGRyy/assignment-7.-mockup--user-test?page-id=0%3A1&node-id=5074-92684&t=LpDHgg9eVrQdcwaN-1
 
 ## How to Use This Repository
 
