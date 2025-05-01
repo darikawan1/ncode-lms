@@ -2,15 +2,15 @@
 const cards = [
     {
       category: "python",
-      front: "images/q1.png",
-      back: "images/1.png",
+      front: "src/images/q1.png",
+      back: "src/images/1.png",
       learned: false,
       reviewLater: false
     },
     {
       category: "python",
-      front: "images/q2.png",
-      back: "images/2.png",
+      front: "src/images/q2.png",
+      back: "src/images/2.png",
       learned: false,
       reviewLater: false
     },
@@ -23,22 +23,22 @@ const cards = [
     },
     {
       category: "python",
-      front: "images/q3.png",
-      back: "images/3.png",
+      front: "src/images/q3.png",
+      back: "src/images/3.png",
       learned: false,
       reviewLater: false
     },
     {
       category: "python",
-      front: "images/q4.png",
-      back: "images/4.png",
+      front: "src/images/q4.png",
+      back: "src/images/4.png",
       learned: false,
       reviewLater: false
     },
     {
       category: "python",
-      front: "images/q5.png",
-      back: "images/5.png",
+      front: "src/images/q5.png",
+      back: "src/images/5.png",
       learned: false,
       reviewLater: false
     },
