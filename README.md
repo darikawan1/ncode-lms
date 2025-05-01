@@ -7,7 +7,7 @@ Ncode LMS is a lightweight, responsive learning management system designed to su
 
 ## Project Documentation
 
-- [CM523 Final Project Guidelines &amp; Schedule](https://docs.google.com/document/d/1gvG9_1XYfp5-BVUgCDL9JDaZ3Acm6hHP7lDF3MqXPzY/edit#heading=h.61wsleacz62i)
+- **The project was done as part of the BU COM coursework:** [CM523 Final Project Guidelines &amp; Schedule](https://docs.google.com/document/d/1gvG9_1XYfp5-BVUgCDL9JDaZ3Acm6hHP7lDF3MqXPzY/edit#heading=h.61wsleacz62i)
 - **Final code demo:** https://github.com/darikawan1/ncode-lms  
 - **Wireframe link:** https://www.figma.com/proto/riU9dlFm7V6FX7lPXuGRyy/assignment-7.-mockup--user-test?page-id=0%3A1&node-id=5074-92684&t=LpDHgg9eVrQdcwaN-1
 
